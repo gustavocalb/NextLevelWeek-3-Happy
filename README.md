@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://cdn.discordapp.com/attachments/524178487628791849/809196503603085372/happy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
